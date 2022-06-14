@@ -106,6 +106,10 @@ export const fetchAllPools = async (): Promise<void> => {
       target: p.pool.address,
       callData: swapContract.interface.encodeFunctionData("swapStorage"),
     },
+    {
+      target: p.pool.address,
+      callData: swapContract.interface.encodeFunctionData("paused"),
+    },
   ]);
 
   const poolData = await getMulticallDataChunked(calls);
@@ -117,16 +121,21 @@ export const fetchAllPools = async (): Promise<void> => {
     defaultWithdrawFee: BigNumber;
   }
 
-  const pools = chunk(poolData, 2).map((pd) => {
+  const pools = chunk(poolData, 3).map((pd) => {
     const amp = parseFunctionReturn(swapContract.interface, "getA", pd[0]);
     const swap = parseFunctionReturn(
       swapContract.interface,
       "swapStorage",
       pd[1]
     ) as unknown as Swap;
-
+    const paused = parseFunctionReturn(
+      swapContract.interface,
+      "paused",
+      pd[2]
+    ) as [boolean];
     return {
       ampFactor: amp.toString(),
+      paused: paused[0] === true,
       fees: {
         trade: swap.swapFee.toString(),
         admin: swap.adminFee.toString(),

@@ -8,21 +8,11 @@ on:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    name: Refresh Pinnata Positions Registry
+    name: Refresh Mobius Pool Registry
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-        with:
-          node-version: "16"
-      - name: Yarn Cache
-        uses: actions/cache@v2
-        with:
-          path: ./.yarn
-          key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-modules-
-      - run: yarn install
+      - uses: actions/checkout@v3
+      - uses: ./.github/actions/yarn
       - run: yarn typechain
       - run: yarn registry:sync
       - run: |

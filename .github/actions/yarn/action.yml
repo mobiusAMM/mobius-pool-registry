@@ -4,7 +4,7 @@ description: Sets up the Yarn, the Yarn Cache, and installs
 runs:
   using: composite
   steps:
-    - uses: actions/setup-node@v2
+    - uses: actions/setup-node@v3
       with:
         node-version: "16"
     - name: Get yarn cache directory path
