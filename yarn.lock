@@ -173,6 +173,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@dahlia-labs/celo-contrib@npm:^0.5.7":
+  version: 0.5.7
+  resolution: "@dahlia-labs/celo-contrib@npm:0.5.7"
+  dependencies:
+    tslib: ^2.4.0
+  checksum: 7a94e389aaeca63a8a92f531beea96d78a6ca6db3569d2091b2bd4128387622c789c01be139fcb553697745242493912e2207ce693963b9ef685a0ad2ec9c08d
+  languageName: node
+  linkType: hard
+
 "@dahlia-labs/celo-tokens@npm:^0.4.0":
   version: 0.4.0
   resolution: "@dahlia-labs/celo-tokens@npm:0.4.0"
@@ -190,12 +199,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@dahlia-labs/celo-tokens@npm:^0.5.4":
-  version: 0.5.4
-  resolution: "@dahlia-labs/celo-tokens@npm:0.5.4"
+"@dahlia-labs/celo-tokens@npm:^0.5.7":
+  version: 0.5.7
+  resolution: "@dahlia-labs/celo-tokens@npm:0.5.7"
   dependencies:
-    "@dahlia-labs/celo-contrib": ^0.5.4
-    "@dahlia-labs/token-utils": ^0.5.4
+    "@dahlia-labs/celo-contrib": ^0.5.7
+    "@dahlia-labs/token-utils": ^0.5.7
     "@ubeswap/token-math": ^5.1.6
     lodash.mapvalues: ^4.6.0
     tiny-invariant: ^1.2.0
@@ -203,18 +212,18 @@ __metadata:
   peerDependencies:
     bn.js: ^4 || ^5
     jsbi: ^3 || ^4
-  checksum: 37f276dc5070cc060cdab951a8e3eb2beff663b0832518e8406848ba96c3212b99801b1dd2995262d7ccdcb804d1500bcefa9d429e165223f4dc4ec2980922b4
+  checksum: a1af06fe0e68e495c2f8b5aa6ae2097e5fe359cf58bd90c5e055ec445ae3818dbf8f3417144fc3da8c7581da42825b31a0af5a79de869e76a6bee601fec01aad
   languageName: node
   linkType: hard
 
-"@dahlia-labs/mobius-config-registry@npm:^0.0.4":
-  version: 0.0.4
-  resolution: "@dahlia-labs/mobius-config-registry@npm:0.0.4"
+"@dahlia-labs/mobius-config-registry@npm:^0.0.5":
+  version: 0.0.5
+  resolution: "@dahlia-labs/mobius-config-registry@npm:0.0.5"
   dependencies:
     "@dahlia-labs/celo-contrib": ^0.5.4
-    "@dahlia-labs/celo-tokens": ^0.5.4
-    "@dahlia-labs/stableswap-sdk": ^0.5.5
-    "@dahlia-labs/token-utils": ^0.5.4
+    "@dahlia-labs/celo-tokens": ^0.5.7
+    "@dahlia-labs/stableswap-sdk": ^0.5.7
+    "@dahlia-labs/token-utils": ^0.5.7
     "@ethersproject/abi": ^5.6.3
     "@ethersproject/address": ^5.6.1
     "@ethersproject/bignumber": ^5.6.2
@@ -235,22 +244,22 @@ __metadata:
     tslib: ^2.4.0
     typechain: ^8.1.0
     typedoc: ^0.22.17
-  checksum: e9d175c5bc7ac328a2347f5dfbc924d465342b410bd1fc4baf0ca50755023045c0eb90ff0adad17ae5e2b1adb773a44d2d77a7889908f4a0073625d306b6a5a8
+  checksum: ad0020092d9e6988c77e3faf051f616504a749f726a4727f1f305e160e08ad05701c692383277928f3e0627ee187fe271d96fd35b7262d47d4cd78ebf3863222
   languageName: node
   linkType: hard
 
-"@dahlia-labs/stableswap-sdk@npm:^0.5.5":
-  version: 0.5.5
-  resolution: "@dahlia-labs/stableswap-sdk@npm:0.5.5"
+"@dahlia-labs/stableswap-sdk@npm:^0.5.7":
+  version: 0.5.7
+  resolution: "@dahlia-labs/stableswap-sdk@npm:0.5.7"
   dependencies:
-    "@dahlia-labs/token-utils": ^0.5.4
-    "@saberhq/tsconfig": ^1.13.28
+    "@dahlia-labs/token-utils": ^0.5.7
+    "@saberhq/tsconfig": ^1.13.29
     lodash.mapvalues: ^4.6.0
     tslib: ^2.4.0
   peerDependencies:
     bn.js: ">=5"
     jsbi: ^3 || ^4
-  checksum: 61c8230d97ff5f6e03f0c2a767cff985870ae8a2c661683ec6da49b6493b7f12e1350586e83ad28f5d4a9c67301806e1653ae7d720899e58df7a832c28b952d1
+  checksum: 60c7b4357bae3909a0a614a467eecb135f8ad9722d1893dabb5f7eadb38a63da133048a4cab1e5fcfcfd7efc80dad8abe6487f2b83a870e1600d36b309abda33
   languageName: node
   linkType: hard
 
@@ -269,18 +278,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@dahlia-labs/token-utils@npm:^0.5.4":
-  version: 0.5.4
-  resolution: "@dahlia-labs/token-utils@npm:0.5.4"
+"@dahlia-labs/token-utils@npm:^0.5.7":
+  version: 0.5.7
+  resolution: "@dahlia-labs/token-utils@npm:0.5.7"
   dependencies:
-    "@dahlia-labs/celo-contrib": ^0.5.4
+    "@dahlia-labs/celo-contrib": ^0.5.7
     "@ubeswap/token-math": ^5.1.6
     tiny-invariant: ^1.2.0
     tslib: ^2.4.0
   peerDependencies:
     bn.js: ^4 || ^5
     jsbi: ^3 || ^4
-  checksum: 4d542d44ece40d34a0555d13a87ee9a2361c9f07133a0ad27cd0f2677b7bd0c9f4be4df3b61f3e381cda7f4c70c1b7da234e12465aa389542de0eccae4f22069
+  checksum: 98327e532c96dce9bf333b849837e88865677c21a11dba77e7425f49c5c5659e99fa6c912dc56a55504e5fe7fc7a8b20703e153f8b6c8bbdbf52f93fb6ce338d
   languageName: node
   linkType: hard
 
@@ -1163,8 +1172,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@mobius-money/mobius-pool-registry@workspace:."
   dependencies:
-    "@dahlia-labs/celo-contrib": ^0.5.4
-    "@dahlia-labs/mobius-config-registry": ^0.0.4
+    "@dahlia-labs/celo-contrib": ^0.5.7
+    "@dahlia-labs/mobius-config-registry": ^0.0.5
     "@ethersproject/abi": ^5.6.3
     "@ethersproject/address": ^5.6.1
     "@ethersproject/bignumber": ^5.6.2
@@ -1294,6 +1303,13 @@ __metadata:
   version: 1.13.28
   resolution: "@saberhq/tsconfig@npm:1.13.28"
   checksum: b885cce8746efb6fb7ee78b92f25cfc2a18f67838550235cf64490bbb971cebea425a5a2d6a857cc75d9d0fa9839356378331a9338e39012a0e54770ea87d6a5
+  languageName: node
+  linkType: hard
+
+"@saberhq/tsconfig@npm:^1.13.29":
+  version: 1.13.29
+  resolution: "@saberhq/tsconfig@npm:1.13.29"
+  checksum: c18a36f878f2b7ce98f9deadf94b56a949ac8382edb5cda5f6fff7dd37bd2dd4201aff05b95a26ea3c2b7bcecc15c8edca10d729b8b661ff8ee1e8c76f11fdfd
   languageName: node
   linkType: hard
 
