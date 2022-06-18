@@ -1,5 +1,15 @@
 [
   {
+    "ampFactor": "200",
+    "paused": false,
+    "fees": {
+      "trade": "20000000",
+      "admin": "5000000000",
+      "deposit": "0",
+      "withdraw": "0"
+    }
+  },
+  {
     "ampFactor": "100",
     "paused": false,
     "fees": {
