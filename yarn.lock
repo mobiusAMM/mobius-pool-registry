@@ -216,9 +216,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@dahlia-labs/mobius-config-registry@npm:^0.0.5":
-  version: 0.0.5
-  resolution: "@dahlia-labs/mobius-config-registry@npm:0.0.5"
+"@dahlia-labs/mobius-config-registry@npm:^0.0.7":
+  version: 0.0.7
+  resolution: "@dahlia-labs/mobius-config-registry@npm:0.0.7"
   dependencies:
     "@dahlia-labs/celo-contrib": ^0.5.4
     "@dahlia-labs/celo-tokens": ^0.5.7
@@ -244,7 +244,7 @@ __metadata:
     tslib: ^2.4.0
     typechain: ^8.1.0
     typedoc: ^0.22.17
-  checksum: ad0020092d9e6988c77e3faf051f616504a749f726a4727f1f305e160e08ad05701c692383277928f3e0627ee187fe271d96fd35b7262d47d4cd78ebf3863222
+  checksum: f78fb64ba3020c35859e4a11ea0dae64e53993b55fb4781d7ef295f645011c1bcc69604d9ecaaaada1ce17106944284e5c1fec75196b049d796eec4e090e6649
   languageName: node
   linkType: hard
 
@@ -1173,7 +1173,7 @@ __metadata:
   resolution: "@mobius-money/mobius-pool-registry@workspace:."
   dependencies:
     "@dahlia-labs/celo-contrib": ^0.5.7
-    "@dahlia-labs/mobius-config-registry": ^0.0.5
+    "@dahlia-labs/mobius-config-registry": ^0.0.7
     "@ethersproject/abi": ^5.6.3
     "@ethersproject/address": ^5.6.1
     "@ethersproject/bignumber": ^5.6.2
