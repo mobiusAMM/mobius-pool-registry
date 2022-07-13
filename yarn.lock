@@ -190,9 +190,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@dahlia-labs/celo-tokens@npm:^0.5.8":
-  version: 0.5.8
-  resolution: "@dahlia-labs/celo-tokens@npm:0.5.8"
+"@dahlia-labs/celo-tokens@npm:^0.5.9":
+  version: 0.5.9
+  resolution: "@dahlia-labs/celo-tokens@npm:0.5.9"
   dependencies:
     "@dahlia-labs/celo-contrib": ^0.5.7
     "@dahlia-labs/token-utils": ^0.5.7
@@ -203,16 +203,16 @@ __metadata:
   peerDependencies:
     bn.js: ^4 || ^5
     jsbi: ^3 || ^4
-  checksum: 135d8088db575589a0b6bdb340d5208d783a22538fd8bdf09aabecc291d8e0fe29e5c6343e0aeba5d63e143b25810036011a17165a95715d302a462c6e07ec3e
+  checksum: 9167b6a7719f935c71d0360e901baf7e7339e2e7ebc728913845b5001cdf3ea0001621f77c13458b3ea3a8793f389c8251a51652296a09cb111186e19f91ffb9
   languageName: node
   linkType: hard
 
-"@dahlia-labs/mobius-config-registry@npm:^0.0.8":
-  version: 0.0.8
-  resolution: "@dahlia-labs/mobius-config-registry@npm:0.0.8"
+"@dahlia-labs/mobius-config-registry@npm:^0.0.9":
+  version: 0.0.9
+  resolution: "@dahlia-labs/mobius-config-registry@npm:0.0.9"
   dependencies:
     "@dahlia-labs/celo-contrib": ^0.5.7
-    "@dahlia-labs/celo-tokens": ^0.5.8
+    "@dahlia-labs/celo-tokens": ^0.5.9
     "@dahlia-labs/stableswap-sdk": ^0.5.7
     "@dahlia-labs/token-utils": ^0.5.7
     "@ethersproject/abi": ^5.6.3
@@ -235,7 +235,7 @@ __metadata:
     tslib: ^2.4.0
     typechain: ^8.1.0
     typedoc: ^0.22.17
-  checksum: 454ddb7e4e31ff3a392be7d2edac6e77f8769911f4d8baa606ecfdb929cfa74ea3039a80f4968b2da1bdf74496a9db67cda14ddde73dbcaa55189797f3c3cf41
+  checksum: a8fda7f6c30a3fbfd5bd07a5b1ddf3b0edf92343955482d0062b07ae51b7635fa8f7fd52afa2028b74c8564b2568100b5d32b78fa5c02e3eae9a3b394d3f7c62
   languageName: node
   linkType: hard
 
@@ -1164,7 +1164,7 @@ __metadata:
   resolution: "@mobius-money/mobius-pool-registry@workspace:."
   dependencies:
     "@dahlia-labs/celo-contrib": ^0.5.7
-    "@dahlia-labs/mobius-config-registry": ^0.0.8
+    "@dahlia-labs/mobius-config-registry": ^0.0.9
     "@ethersproject/abi": ^5.6.3
     "@ethersproject/address": ^5.6.1
     "@ethersproject/bignumber": ^5.6.2
