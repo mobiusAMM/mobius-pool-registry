@@ -10,3 +10,4 @@ src/generated/
 dist/
 
 .eslintcache
+node_modules
