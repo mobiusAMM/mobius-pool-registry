@@ -228,5 +228,15 @@
       "deposit": "0",
       "withdraw": "0"
     }
+  },
+  {
+    "ampFactor": "999999",
+    "paused": false,
+    "fees": {
+      "trade": "2000000",
+      "admin": "5000000000",
+      "deposit": "0",
+      "withdraw": "0"
+    }
   }
 ]
