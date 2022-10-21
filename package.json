@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@dahlia-labs/celo-contrib": "^0.5.7",
-    "@dahlia-labs/mobius-config-registry": "^0.0.18",
+    "@dahlia-labs/mobius-config-registry": "^0.0.20",
     "@ethersproject/abi": "^5.6.3",
     "@ethersproject/address": "^5.6.1",
     "@ethersproject/bignumber": "^5.6.2",
