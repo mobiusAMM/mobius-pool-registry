@@ -3,220 +3,220 @@
     "ampFactor": "200",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "200",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "100",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "100",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "100",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "100",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "100",
     "paused": false,
     "fees": {
-      "trade": "20000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "100",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "100",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "200",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
     "ampFactor": "50",
     "paused": false,
     "fees": {
-      "trade": "10000000",
-      "admin": "1000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   },
   {
@@ -233,10 +233,10 @@
     "ampFactor": "999999",
     "paused": false,
     "fees": {
-      "trade": "2000000",
-      "admin": "5000000000",
-      "deposit": "0",
-      "withdraw": "0"
+      "trade": "100000000",
+      "admin": "10000000000",
+      "deposit": "100000000",
+      "withdraw": "100000000"
     }
   }
 ]
